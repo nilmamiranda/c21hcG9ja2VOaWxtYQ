@@ -12,51 +12,45 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nilma =====
-[1]Nilma       |10:40:25 | 29-10-2026| login OK @mynilmaa | score=2230 rank=3609
-[1]Nilma       |10:40:25 | 29-10-2026| serverTime=2026-10-29T10:40:24.000Z local=2026-10-29T10:40:25.041Z
+[1]Nilma       |10:41:18 | 30-10-2026| login OK @mynilmaa | score=2330 rank=3491
+[1]Nilma       |10:41:18 | 30-10-2026| serverTime=2026-10-30T10:41:18.000Z local=2026-10-30T10:41:18.537Z
 --> [1]Nilma menjalankan: Claim Daily
-[1]Nilma       |10:40:26 | 29-10-2026| daily: OK +10 poin score=2240
---> [1]Nilma menjalankan: Auto All Tasks (9 pending)
-[1]Nilma       |10:40:27 | 29-10-2026| [1/9] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/mynilmaa/status/2115755183924599313
-[1]Nilma       |10:40:27 | 29-10-2026| delay 10s...
-[1]Nilma       |10:40:40 | 29-10-2026| [2/9] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/mynilmaa/status/2115755303867296605
-[1]Nilma       |10:40:40 | 29-10-2026| delay 10s...
-[1]Nilma       |10:40:51 | 29-10-2026| [3/9] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/mynilmaa/status/2115755409446238291
-[1]Nilma       |10:40:51 | 29-10-2026| delay 10s...
-[1]Nilma       |10:41:03 | 29-10-2026| [4/9] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/mynilmaa/status/2115755391199698840
-[1]Nilma       |10:41:03 | 29-10-2026| delay 10s...
-[1]Nilma       |10:41:15 | 29-10-2026| [5/9] 3a2ebc56 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/mynilmaa/status/2115755537959192598
-[1]Nilma       |10:41:15 | 29-10-2026| delay 10s...
-[1]Nilma       |10:41:27 | 29-10-2026| [6/9] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/mynilmaa/status/2115755348481189879
-[1]Nilma       |10:41:27 | 29-10-2026| delay 10s...
-[1]Nilma       |10:41:39 | 29-10-2026| [7/9] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/mynilmaa/status/2115755533932612192
-[1]Nilma       |10:41:39 | 29-10-2026| delay 10s...
-[1]Nilma       |10:41:51 | 29-10-2026| [8/9] 8545d68c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/mynilmaa/status/2115755395621903323
-[1]Nilma       |10:41:51 | 29-10-2026| delay 10s...
-[1]Nilma       |10:42:03 | 29-10-2026| [9/9] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321
-[1]Nilma       |10:42:03 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nilma       |10:42:04 | 29-10-2026| [1/1] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115728806573219 | proof=https://x.com/mynilmaa/status/2115755519135026321
+[1]Nilma       |10:41:20 | 30-10-2026| daily: OK +10 poin score=2340
+--> [1]Nilma menjalankan: Auto All Tasks (6 pending)
+[1]Nilma       |10:41:22 | 30-10-2026| [1/6] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/mynilmaa/status/2116117799674521962
+[1]Nilma       |10:41:22 | 30-10-2026| delay 10s...
+[1]Nilma       |10:41:35 | 30-10-2026| [2/6] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/mynilmaa/status/2116118031102759661
+[1]Nilma       |10:41:35 | 30-10-2026| delay 10s...
+[1]Nilma       |10:41:47 | 30-10-2026| [3/6] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/mynilmaa/status/2116117785618758927
+[1]Nilma       |10:41:47 | 30-10-2026| delay 10s...
+[1]Nilma       |10:42:00 | 30-10-2026| [4/6] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/mynilmaa/status/2116117840037656330
+[1]Nilma       |10:42:00 | 30-10-2026| delay 10s...
+[1]Nilma       |10:42:12 | 30-10-2026| [5/6] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/mynilmaa/status/2116117837014498911
+[1]Nilma       |10:42:12 | 30-10-2026| delay 10s...
+[1]Nilma       |10:42:24 | 30-10-2026| [6/6] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
+[1]Nilma       |10:42:24 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nilma       |10:42:25 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/mynilmaa/status/2116118248316039712
 --> [1]Nilma menjalankan: Watch Anime
-[1]Nilma       |10:42:05 | 29-10-2026| watch: semua video sudah completed
+[1]Nilma       |10:42:26 | 30-10-2026| watch: semua video sudah completed
 --> [1]Nilma menjalankan: Read Article
-[1]Nilma       |10:42:06 | 29-10-2026| news: 30/30 artikel selesai dibaca
-[1]Nilma       |10:42:07 | 29-10-2026| mint eligibility: {"userId":"2010532200698286081","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@mynilmaa","status":"submitted","revision":"eca317ab-4a1a-4de8-8376-bb77df1d2669"
-[1]Nilma       |10:42:07 | 29-10-2026| news: semua artikel sudah dibaca
+[1]Nilma       |10:42:28 | 30-10-2026| news: 30/30 artikel selesai dibaca
+[1]Nilma       |10:42:29 | 30-10-2026| mint eligibility: {"userId":"2010532200698286081","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@mynilmaa","status":"submitted","revision":"eca317ab-4a1a-4de8-8376-bb77df1d2669"
+[1]Nilma       |10:42:29 | 30-10-2026| news: semua artikel sudah dibaca
 --> [1]Nilma menjalankan: Quiz Anime
 --> [1]Nilma menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nilma       |10:42:09 | 29-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nilma       |10:42:10 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Nilma       |10:42:10 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nilma       |10:42:10 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nilma       |10:42:31 | 30-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nilma       |10:42:32 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Nilma       |10:42:32 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nilma       |10:42:32 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nilma menjalankan: Claim Missions
-[1]Nilma       |10:42:10 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Nilma       |10:42:10 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nilma       |10:42:10 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nilma       |10:42:32 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Nilma       |10:42:32 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nilma       |10:42:32 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nilma menjalankan: Check Eligibility
 
 --- eligibility [1]Nilma ---
-  @mynilmaa | score=2230 rank=3609
-  tasks    [######--------------] 4/13
+  @mynilmaa | score=2330 rank=3491
+  tasks    [########------------] 4/10
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -67,14 +61,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nilma menjalankan: Read Manga
-[1]Nilma       |10:42:14 | 29-10-2026| manga: 0/13 chapter belum completed
+[1]Nilma       |10:42:37 | 30-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nilma menjalankan: Get Gift
-[1]Nilma       |10:42:15 | 29-10-2026| gift: 0/5 belum diterima
+[1]Nilma       |10:42:37 | 30-10-2026| gift: 1/6 belum diterima
+[1]Nilma       |10:42:38 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
 --> [1]Nilma menjalankan: Setup Profile
-[1]Nilma       |10:42:15 | 29-10-2026| profile: bio="https://x.com/mynilmaa" fav=kagura rewardAt=1791711862
-[1]Nilma       |10:42:15 | 29-10-2026| profile: bonus sudah diklaim, skip
+[1]Nilma       |10:42:41 | 30-10-2026| profile: bio="https://x.com/mynilmaa" fav=kagura rewardAt=1791711862
+[1]Nilma       |10:42:41 | 30-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nilma menjalankan: Bind Wallet
-[1]Nilma       |10:42:16 | 29-10-2026| wallet: sudah terikat 7u7oquYujW... (solana)
+[1]Nilma       |10:42:41 | 30-10-2026| wallet: sudah terikat 7u7oquYujW... (solana)
 
 == RINGKASAN ==
-- Nilma: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
+- Nilma: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
