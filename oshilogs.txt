@@ -12,37 +12,41 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nilma =====
-[1]Nilma       |11:33:35 | 03-11-2026| login OK @mynilmaa | score=2670 rank=3001
-[1]Nilma       |11:33:35 | 03-11-2026| serverTime=2026-11-03T11:33:35.000Z local=2026-11-03T11:33:35.217Z
+[1]Nilma       |11:48:37 | 04-11-2026| login OK @mynilmaa | score=2700 rank=2960
+[1]Nilma       |11:48:37 | 04-11-2026| serverTime=2026-11-04T11:48:37.000Z local=2026-11-04T11:48:37.337Z
 --> [1]Nilma menjalankan: Claim Daily
-[1]Nilma       |11:33:36 | 03-11-2026| daily: OK +10 poin score=2680
---> [1]Nilma menjalankan: Auto All Tasks (2 pending)
-[1]Nilma       |11:33:37 | 03-11-2026| [1/2] ba012859 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"ba012859-9955-45c5-a1dc-fef581880ca9","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211757419682197 | proof=https://x.com/mynilmaa/status/2117580401636979765
-[1]Nilma       |11:33:37 | 03-11-2026| delay 10s...
-[1]Nilma       |11:33:56 | 03-11-2026| [2/2] b7f716d0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"ba012859-9955-45c5-a1dc-fef581880ca9","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211757419682197 | proof=https://x.com/mynilmaa/status/2117580508460460833
-[1]Nilma       |11:33:56 | 03-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nilma       |11:33:59 | 03-11-2026| [1/1] ba012859 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"ba012859-9955-45c5-a1dc-fef581880ca9","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2117574196821975 | proof=https://x.com/mynilmaa/status/2117580561871294164
+[1]Nilma       |11:48:38 | 04-11-2026| daily: OK +10 poin score=2710
+--> [1]Nilma menjalankan: Auto All Tasks (4 pending)
+[1]Nilma       |11:48:40 | 04-11-2026| [1/4] bcc1d6fd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"bcc1d6fd-b80e-43c3-b134-cce3484ea8dd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211794283928824 | proof=https://x.com/mynilmaa/status/2117946598952540170
+[1]Nilma       |11:48:40 | 04-11-2026| delay 10s...
+[1]Nilma       |11:48:53 | 04-11-2026| [2/4] fefe8b6d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"bcc1d6fd-b80e-43c3-b134-cce3484ea8dd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211794283928824 | proof=https://x.com/mynilmaa/status/2117946833022614290
+[1]Nilma       |11:48:53 | 04-11-2026| delay 10s...
+[1]Nilma       |11:49:06 | 04-11-2026| [3/4] 9149dbd0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"bcc1d6fd-b80e-43c3-b134-cce3484ea8dd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211794283928824 | proof=https://x.com/mynilmaa/status/2117946871048039089
+[1]Nilma       |11:49:06 | 04-11-2026| delay 10s...
+[1]Nilma       |11:49:18 | 04-11-2026| [4/4] 6608dad0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"bcc1d6fd-b80e-43c3-b134-cce3484ea8dd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211794283928824 | proof=https://x.com/mynilmaa/status/2117946991473309858
+[1]Nilma       |11:49:18 | 04-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nilma       |11:49:20 | 04-11-2026| [1/1] bcc1d6fd (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"bcc1d6fd-b80e-43c3-b134-cce3484ea8dd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2117942839288242 | proof=https://x.com/mynilmaa/status/2117946946457968452
 --> [1]Nilma menjalankan: Watch Anime
-[1]Nilma       |11:34:00 | 03-11-2026| watch: semua video sudah completed
+[1]Nilma       |11:49:20 | 04-11-2026| watch: semua video sudah completed
 --> [1]Nilma menjalankan: Read Article
-[1]Nilma       |11:34:02 | 03-11-2026| news: 34/34 artikel selesai dibaca
-[1]Nilma       |11:34:02 | 03-11-2026| mint eligibility: {"userId":"2010532200698286081","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@mynilmaa","status":"submitted","revision":"eca317ab-4a1a-4de8-8376-bb77df1d2669"
-[1]Nilma       |11:34:02 | 03-11-2026| news: semua artikel sudah dibaca
+[1]Nilma       |11:49:21 | 04-11-2026| news: 34/34 artikel selesai dibaca
+[1]Nilma       |11:49:22 | 04-11-2026| mint eligibility: {"userId":"2010532200698286081","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@mynilmaa","status":"submitted","revision":"eca317ab-4a1a-4de8-8376-bb77df1d2669"
+[1]Nilma       |11:49:22 | 04-11-2026| news: semua artikel sudah dibaca
 --> [1]Nilma menjalankan: Quiz Anime
 --> [1]Nilma menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nilma       |11:34:05 | 03-11-2026| music: kedua misi sudah tercapai, stop
-[1]Nilma       |11:34:05 | 03-11-2026| mission music-listens-10: sudah diklaim
-[1]Nilma       |11:34:05 | 03-11-2026| mission music-minutes-30: sudah diklaim
-[1]Nilma       |11:34:05 | 03-11-2026| mission anime-completed-3: sudah diklaim
+[1]Nilma       |11:49:24 | 04-11-2026| music: kedua misi sudah tercapai, stop
+[1]Nilma       |11:49:25 | 04-11-2026| mission music-listens-10: sudah diklaim
+[1]Nilma       |11:49:25 | 04-11-2026| mission music-minutes-30: sudah diklaim
+[1]Nilma       |11:49:25 | 04-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nilma menjalankan: Claim Missions
-[1]Nilma       |11:34:06 | 03-11-2026| mission music-listens-10: sudah diklaim
-[1]Nilma       |11:34:06 | 03-11-2026| mission music-minutes-30: sudah diklaim
-[1]Nilma       |11:34:06 | 03-11-2026| mission anime-completed-3: sudah diklaim
+[1]Nilma       |11:49:25 | 04-11-2026| mission music-listens-10: sudah diklaim
+[1]Nilma       |11:49:25 | 04-11-2026| mission music-minutes-30: sudah diklaim
+[1]Nilma       |11:49:25 | 04-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nilma menjalankan: Check Eligibility
 
 --- eligibility [1]Nilma ---
-  @mynilmaa | score=2670 rank=3001
-  tasks    [################----] 9/11
+  @mynilmaa | score=2700 rank=2960
+  tasks    [####----------------] 1/5
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -53,17 +57,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nilma menjalankan: Read Manga
-[1]Nilma       |11:34:10 | 03-11-2026| manga: 0/13 chapter belum completed
+[1]Nilma       |11:49:28 | 04-11-2026| manga: 0/13 chapter belum completed
 --> [1]Nilma menjalankan: Get Gift
-[1]Nilma       |11:34:12 | 03-11-2026| gift: 3/9 belum diterima
-[1]Nilma       |11:34:12 | 03-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Nilma       |11:34:15 | 03-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Nilma       |11:34:18 | 03-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Nilma       |11:49:30 | 04-11-2026| gift: 3/9 belum diterima
+[1]Nilma       |11:49:31 | 04-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Nilma       |11:49:33 | 04-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Nilma       |11:49:36 | 04-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Nilma menjalankan: Setup Profile
-[1]Nilma       |11:34:20 | 03-11-2026| profile: bio="https://x.com/mynilmaa" fav=kagura rewardAt=1791711862
-[1]Nilma       |11:34:20 | 03-11-2026| profile: bonus sudah diklaim, skip
+[1]Nilma       |11:49:40 | 04-11-2026| profile: bio="https://x.com/mynilmaa" fav=kagura rewardAt=1791711862
+[1]Nilma       |11:49:40 | 04-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Nilma menjalankan: Bind Wallet
-[1]Nilma       |11:34:21 | 03-11-2026| wallet: sudah terikat 7u7oquYujW... (solana)
+[1]Nilma       |11:49:40 | 04-11-2026| wallet: sudah terikat 7u7oquYujW... (solana)
 
 == RINGKASAN ==
-- Nilma: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Nilma: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
